@@ -89,7 +89,7 @@ if _N_ = 1 then do;
   put "attrib";
   put "&attrib_list";
   put ";";
-  put 'infile datalines dlm=' "'&dlm" "';";
+  put 'infile datalines dsd missover dlm=' "'&dlm" "';";
   put "input &input_list. ;";
   put "datalines;";
 
@@ -117,7 +117,7 @@ if _N_ = 1 then do;
   put "attrib";
   put "&attrib_list";
   put ";";
-  put 'infile datalines dlm=' "'&dlm" "';";
+  put 'infile datalines dsd missover dlm=' "'&dlm" "';";
   put "input &input_list. ;";
   put "datalines;";
 
