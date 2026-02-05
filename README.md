@@ -40,7 +40,8 @@ Purpose:  Export a SAS dataset into SAS code that recreates the dataset using
 
 ---
 # version history
-0.0.1(02February2026): Initial version
+0.1.1(05February2026): Bug Fix
+0.1.0(02February2026): Initial version
 
 ## What is SAS Packages?
 
