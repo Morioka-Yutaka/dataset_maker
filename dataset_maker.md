@@ -9,17 +9,17 @@
 ### Version information:
   
 - Package: dataset_maker
-- Version: 0.1.0
-- Generated: 2026-02-02T08:16:51
+- Version: 0.1.1
+- Generated: 2026-02-05T17:23:19
 - Author(s): Yutaka Morioka(sasyupi@gmail.com)
 - Maintainer(s): Yutaka Morioka(sasyupi@gmail.com)
 - License: MIT
-- File SHA256: `F*A07AF96C813AA91A2B3EB25038C2C78477FF486FFCE14BCD6F745BD546EDA4DE` for this version
-- Content SHA256: `C*08D67ACA354B3506861A0F263159F2DEA6E76257FB4086F97BE96D533A310DCA` for this version
+- File SHA256: `F*71EDBF62C8380BBD0B2E02406E85814B2301A9D4FF56B0ADE682DFA5CF44EFAA` for this version
+- Content SHA256: `C*8B445E8471D5B41F1E33EE9866D868B64A2EA1778BB430AA4A922C16497A3231` for this version
   
 ---
  
-# The `dataset_maker` package, version: `0.1.0`;
+# The `dataset_maker` package, version: `0.1.1`;
   
 ---
  
